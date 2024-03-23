@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cómo mejorar tus hábitos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff; /* Change this to blue (#0000FF) if you want a blue background */
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #ddd;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cómo mejorar tus hábitos</h1>
+    </header>
+    <nav>
+        <a href="#que-son">¿Qué son los hábitos?</a>
+        <a href="#por-que-cambiar">¿Por qué cambiar los hábitos?</a>
+        <a href="#como-cambiar">Cómo cambiar los hábitos</a>
+        <a href="https://comocambiartushabitos.com">Cómo cambiar tus hábitos - Recursos adicionales</a>
+    </nav>
+    <section id="que-son">
+        <h2>¿Qué son los hábitos?</h2>
+        <p>Los hábitos son comportamientos repetitivos que realizamos de manera automática, generalmente sin pensar.</p>
+    </section>
+    <section id="por-que-cambiar">
+        <h2>¿Por qué cambiar los hábitos?</h2>
+        <p>Cambiar hábitos puede llevarnos a una vida más saludable, productiva y feliz. Los hábitos negativos pueden ser perjudiciales para nuestra salud física y mental, mientras que los hábitos positivos pueden mejorar nuestra calidad de vida.</p>
+    </section>
+    <section id="como-cambiar">
+        <h2>Cómo cambiar los hábitos</h2>
+        <p>1. Identifica tus hábitos actuales.</p>
+        <p>2. Establece metas claras y realistas.</p>
+        <p>3. Empieza con cambios pequeños y gradualmente ve aumentando la dificultad.</p>
+        <p>4. Mantén un registro de tu progreso.</p>
+        <p>5. Encuentra apoyo en amigos, familiares o grupos de apoyo.</p>
+        <p>6. Sé paciente y perseverante, el cambio de hábitos lleva tiempo.</p>   
+    </section>
+    <footer>
+        <p>&copy; 2024 Cómo mejorar tus hábitos</p>
+    </footer>
+</body>
+</html>
